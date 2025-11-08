@@ -33,3 +33,8 @@ Sale price - Sale price in AUD
 ## Example
 ![screenshot of terminal showing Data Summary Report(missing values, negatives and duplicates)](/assets/example.png)
 
+## How to use
+```bash
+pip3 install python3 pandas
+cd Data-Integrity-Audit
+```
