@@ -37,4 +37,5 @@ Sale price - Sale price in AUD
 ```bash
 pip3 install python3 pandas
 cd Data-Integrity-Audit
+python3 data_audit.py
 ```
